@@ -299,7 +299,7 @@ border-radius: 20px;
     position: relative;
     overflow: hidden;
     width:90%;
-    height: 700px;
+    height:900px;
     margin-left: 5%;
     border-radius: 20px;
 }
@@ -316,11 +316,47 @@ border-radius: 20px;
     border-radius: 20px;
     box-shadow: 15px 18px 10px -8px rgb(206, 201, 201);
 }
-#contact{
-
+footer{
+    color: white;
+    border: none;
+    background-color: rgb(10, 10, 32);
+    padding: 8%;
+    margin-top: 15%;
 }
-
-
+.footers{
+    display: flex;
+    gap:7%;
+}
+#media{
+    line-height: 320%;
+    margin-top: 3%;
+    text-align: center;
+}
+#since{
+    width: 90%;
+    margin-left: 15%;
+}
+.numbers{
+    display: flex;
+    gap: 2%;
+}
+.email{
+    display: flex;
+    gap: 2%;
+}
+#line3{
+    width: 118.9%;
+    margin-left: -9.5%;
+    margin-top: 8%;
+    height: px;
+}
+#grey_four{
+    color: grey;
+    text-align: center;
+}
+#since{
+    border-radius: 20px;
+}
 
 @media only screen and (max-width:430px) {
 
@@ -428,6 +464,37 @@ border-radius: 20px;
     font-size: 80%;
     margin-top: -128%;
    }
+   footer{
+    font-size: 50%;
+    padding: 1% 2%;
+    width: 96%;
+    margin-top: 35%;
+   }
+   .footers{
+    margin-left: -5%;
+
+   }
+.best{
+    display: none;
+}
+#since{
+    width: 80%;
+    margin-left: 25%;
+    
+
+}
+#array{
+    font-size: 300%;
+}
+#line3{
+width: 112%;
+}
+.numbers{
+    display: block;
+}
+.email{
+    display: block;
+}
 
 }
 
@@ -495,7 +562,25 @@ border-radius: 20px;
    #girl{
     height:250px
    }
-
+   footer{
+    gap:1%;
+    
+   }
+.footers{
+    margin-left: -17%;
+}
+#since{
+    display: none;
+}
+.numbers{
+    display: block;
+}
+.email{
+    display: block;
+}
+#line3{
+    width:115%
+}
 
 }
 
@@ -558,17 +643,26 @@ display: block;
     margin-top: 50%;
 }
 #dresses{
-    height:350px
+    height:300px
    }
    #bed{
-    height:350px
+    height:300px
    }
    #girl{
-    height:350px
+    height:300px
    }
    .phone_number{
     margin-top: -90%;
     width: 40%;
    }
+   .numbers{
+    display: block;
+}
+.email{
+    display: block;
+}
+footer{
+    margin-top: 25%;
+}
 
 }
