@@ -127,183 +127,217 @@ h1 {
     background-color: rgb(15, 15, 15);
     height: 2px;
 }
-#green{
+
+#green {
     color: green;
 }
-#india2{
+
+#india2 {
     position: relative;
     overflow: visible;
     font-size: 250%;
 }
-.timeless{
+
+.timeless {
     display: flex;
     margin-top: 8%;
     margin-left: 5%;
     gap: 5%;
 }
-#image_two{
+
+#image_two {
     border-radius: 20px;
     box-shadow: 15px 18px 10px -8px rgb(206, 201, 201);
     width: 45%;
 }
-#grey{
+
+#grey {
     color: grey;
     font-size: 150%;
     line-height: 180%;
 }
-#know_more{
+
+#know_more {
     background-color: rgb(90, 161, 101);
-color: white;
-padding:3% 4%;
-font-size: 200%;
-border: none;
-border-radius: 50px;
-cursor: pointer;
+    color: white;
+    padding: 3% 4%;
+    font-size: 200%;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
 }
-#contact_us_two{
+
+#contact_us_two {
     margin-left: 10%;
-    padding:3% 4%;
-font-size: 200%;
-border: solid 1px;
-border-radius: 50px;
-cursor: pointer;
+    padding: 3% 4%;
+    font-size: 200%;
+    border: solid 1px;
+    border-radius: 50px;
+    cursor: pointer;
 }
-.icons{
+
+.icons {
     display: flex;
-    gap:10%;
+    gap: 10%;
     margin-left: 5%;
     font-size: 150%;
 }
-#grey_two{
+
+#grey_two {
     font-size: 90%;
     color: grey;
 }
-.container{
+
+.container {
     margin-top: 5%;
     background-color: rgb(222, 231, 228);
-    padding:3%
+    padding: 3%
 }
-#array{
+
+#array {
     font-size: 350%;
     text-align: center;
     margin-top: 10%;
 }
-#grey_three{
+
+#grey_three {
     color: grey;
     font-size: 150%;
     text-align: center;
 }
-#arrow{
+
+#arrow {
     margin-left: 6%;
 }
-.picture{
+
+.picture {
     display: flex;
     margin-left: 5%;
-    gap:2%
+    gap: 2%
 }
-#picture_text{
+
+#picture_text {
     color: grey;
 }
-#paint{
-     border-radius: 20px;
+
+#paint {
+    border-radius: 20px;
     box-shadow: 15px 18px 10px -8px rgb(206, 201, 201);
- 
+
 
 }
-#client{
+
+#client {
     text-align: center;
     font-size: 300%;
     margin-top: 10%;
 }
-.brands_one{
+
+.brands_one {
     display: flex;
     margin-left: 5%;
     gap: 5%;
 }
-.aditya{
+
+.aditya {
     display: flex;
     background-color: white;
     padding: 1% 7%;
     box-shadow: 15px 18px 10px -8px rgb(206, 201, 201);
     border-radius: 10px;
 }
-#brand_first{
-    width:35%;
+
+#brand_first {
+    width: 35%;
     border-radius: 15px;
     height: 80px;
     margin-left: -7%;
 }
-.high_quality{
+
+.high_quality {
     display: flex;
     margin-left: 5%;
     margin-top: 5%;
 }
-.quality_printing{
+
+.quality_printing {
     font-size: 125%;
     margin-top: 2%;
 }
-#pillow{
-    width:60%;
+
+#pillow {
+    width: 60%;
     margin-left: 20%;
     border-radius: 20px;
 }
-.brands{
+
+.brands {
     display: flex;
-    gap:3%;
+    gap: 3%;
     margin-top: 5%;
     margin-left: 5%;
 }
-#brand_two{
-    width:10%;
-    height:100px;
+
+#brand_two {
+    width: 10%;
+    height: 100px;
     border-radius: 10px;
 }
-#brand_two_con{
-    width:10%;
-    height:200px;
+
+#brand_two_con {
+    width: 10%;
+    height: 200px;
     margin-top: -3%;
 
 }
-#proudest{
-    font-size:300%;
+
+#proudest {
+    font-size: 300%;
     text-align: center;
     margin-top: 5%;
 }
-.clothes{
+
+.clothes {
     display: flex;
     margin-left: 4%;
     gap: 1.5%;
     margin-top: 5%;
 }
-#dresses{
-width: 30%;
-border-radius: 20px;
+
+#dresses {
+    width: 30%;
+    border-radius: 20px;
 }
-#bed{
-width: 30%;
-height: 566px;
-border-radius: 20px;
+
+#bed {
+    width: 30%;
+    height: 566px;
+    border-radius: 20px;
 }
-#girl{
-width: 30%;
-height: 566px;
-border-radius: 20px;
+
+#girl {
+    width: 30%;
+    height: 566px;
+    border-radius: 20px;
 }
-#girl_two{
+
+#girl_two {
     margin-left: 4%;
     width: 89%;
     border-radius: 20px;
     margin-top: 2%;
 }
-#map{
+
+#map {
     position: relative;
     overflow: hidden;
-    width:90%;
-    height:900px;
+    width: 90%;
+    height: 900px;
     margin-left: 5%;
     border-radius: 20px;
 }
-.phone_number{
+
+.phone_number {
     position: relative;
     overflow: visible;
     font-size: 130%;
@@ -316,45 +350,54 @@ border-radius: 20px;
     border-radius: 20px;
     box-shadow: 15px 18px 10px -8px rgb(206, 201, 201);
 }
-footer{
+
+footer {
     color: white;
     border: none;
     background-color: rgb(10, 10, 32);
     padding: 8%;
     margin-top: 15%;
 }
-.footers{
+
+.footers {
     display: flex;
-    gap:7%;
+    gap: 7%;
 }
-#media{
+
+#media {
     line-height: 320%;
     margin-top: 3%;
     text-align: center;
 }
-#since{
+
+#since {
     width: 90%;
     margin-left: 15%;
 }
-.numbers{
+
+.numbers {
     display: flex;
     gap: 2%;
 }
-.email{
+
+.email {
     display: flex;
     gap: 2%;
 }
-#line3{
+
+#line3 {
     width: 118.9%;
     margin-left: -9.5%;
     margin-top: 8%;
     height: px;
 }
-#grey_four{
+
+#grey_four {
     color: grey;
     text-align: center;
 }
-#since{
+
+#since {
     border-radius: 20px;
 }
 
@@ -363,7 +406,7 @@ footer{
     #first_image {
         width: 100%;
         height: 300px;
-       
+
     }
 
     #dot {
@@ -373,27 +416,31 @@ footer{
 
 
     }
-    #home{
+
+    #home {
         margin-left: -0%;
     }
-    #phone{
+
+    #phone {
         margin-left: 0%;
     }
 
     .top_buttons {
-      display: none;
+        display: none;
     }
 
     .elevating {
         font-size: 20%;
         margin-top: -65%;
     }
-    #rasi_screen{
-     font-size: 350%;
+
+    #rasi_screen {
+        font-size: 350%;
     }
+
     #contact_us {
-        padding:4% 4%;
-        font-size:200%;
+        padding: 4% 4%;
+        font-size: 200%;
     }
 
     h1 {
@@ -404,6 +451,7 @@ footer{
         margin-top: 30%;
         font-size: 80%;
     }
+
     #line1 {
         display: none;
     }
@@ -411,99 +459,124 @@ footer{
     #line2 {
         display: none;
     }
-    .timeless{
+
+    .timeless {
         display: block;
     }
-    #image_two{
-        height:400px;
-        width:100%
+
+    #image_two {
+        height: 400px;
+        width: 100%
     }
-    #know_more{
+
+    #know_more {
         margin-bottom: 2%;
     }
-    #contact_us_two{
+
+    #contact_us_two {
         margin-top: 5%;
         margin-left: 2%;
     }
-    .icons{
+
+    .icons {
         display: block;
     }
-    .picture{
+
+    .picture {
         display: block;
     }
-    #paint{
+
+    #paint {
         width: 85%;
     }
-    .brands_one{
+
+    .brands_one {
         display: block;
     }
-    #pillow{
+
+    #pillow {
         display: none;
     }
-   #brand_two{
-    width: 14%;
-    height: 60px;
-   }
-   #brand_two_con{
-    display: none;
-   }
-   #dresses{
-    height:150px
-   }
-   #bed{
-    height:150px
-   }
-   #girl{
-    height:150px
-   }
-   #map{
-    height:500px;
-   }
-   .phone_number{
-    width: 50%;
-    font-size: 80%;
-    margin-top: -128%;
-   }
-   footer{
-    font-size: 50%;
-    padding: 1% 2%;
-    width: 96%;
-    margin-top: 35%;
-   }
-   .footers{
-    margin-left: -5%;
 
-   }
-.best{
-    display: none;
-}
-#since{
-    width: 80%;
-    margin-left: 25%;
-    
+    #brand_two {
+        width: 14%;
+        height: 60px;
+    }
 
-}
-#array{
-    font-size: 300%;
-}
-#line3{
-width: 112%;
-}
-.numbers{
-    display: block;
-}
-.email{
-    display: block;
-}
+    #brand_two_con {
+        display: none;
+    }
 
-}
+    #dresses {
+        height: 150px
+    }
+
+    #bed {
+        height: 150px
+    }
+
+    #girl {
+        height: 150px
+    }
+
+    #map {
+        height: 500px;
+    }
+
+    .phone_number {
+        width: 50%;
+        font-size: 80%;
+        margin-top: -128%;
+    }
+
+    footer {
+        font-size: 50%;
+        padding: 1% 2%;
+        width: 96%;
+        margin-top: 35%;
+    }
+
+    .footers {
+        margin-left: -5%;
+
+    }
+
+    .best {
+        display: none;
+    }
+
+    #since {
+        width: 80%;
+        margin-left: 25%;
 
 
-@media only screen and (min-width: 431px)  and (max-width:768px){
+    }
+
+    #array {
+        font-size: 300%;
+    }
+
+    #line3 {
+        width: 112%;
+    }
+
+    .numbers {
+        display: block;
+    }
+
+    .email {
+        display: block;
+    }
+
+}
+
+
+@media only screen and (min-width: 431px) and (max-width:768px) {
     #dot {
         margin-top: -43%;
     }
-    #first_image{
+
+    #first_image {
         width: 100%;
     }
 
@@ -511,15 +584,18 @@ width: 112%;
         flex-direction: column;
         text-align: center;
         margin-bottom: 15%;
-        
-       
+
+
     }
-#line1{
-    display: none;
-}
-#line2{
-    display: none;
-}
+
+    #line1 {
+        display: none;
+    }
+
+    #line2 {
+        display: none;
+    }
+
     #home {
         margin-left: 1%;
     }
@@ -537,50 +613,64 @@ width: 112%;
     #rasi_screen {
         font-size: 230%;
     }
-    .timeless{
+
+    .timeless {
         display: block;
     }
-#image_two{
-    width: 90%;
-}
-.icons{
-    gap:0.75%
-}
-#brand_first{
-  width: 43%;
-}
-.brands_one{
-    margin-left: 0%;
- 
-}
-#dresses{
-    height:250px
-   }
-   #bed{
-    height:250px
-   }
-   #girl{
-    height:250px
-   }
-   footer{
-    gap:1%;
-    
-   }
-.footers{
-    margin-left: -17%;
-}
-#since{
-    display: none;
-}
-.numbers{
-    display: block;
-}
-.email{
-    display: block;
-}
-#line3{
-    width:115%
-}
+
+    #image_two {
+        width: 90%;
+    }
+
+    .icons {
+        gap: 0.75%
+    }
+
+    #brand_first {
+        width: 43%;
+    }
+
+    .brands_one {
+        margin-left: 0%;
+
+    }
+
+    #dresses {
+        height: 250px
+    }
+
+    #bed {
+        height: 250px
+    }
+
+    #girl {
+        height: 250px
+    }
+
+    footer {
+        gap: 1%;
+
+    }
+
+    .footers {
+        margin-left: -17%;
+    }
+
+    #since {
+        display: none;
+    }
+
+    .numbers {
+        display: block;
+    }
+
+    .email {
+        display: block;
+    }
+
+    #line3 {
+        width: 115%
+    }
 
 }
 
@@ -625,44 +715,56 @@ width: 112%;
     #line2 {
         margin-top: -55%;
     }
-    .elevating{
+
+    .elevating {
         margin-top: -9%;
     }
-.timeless{
-display: block;
-}
-#image_two{
-    width: 80%;
-    margin-left: 10%;
-}
-#paint{
-    width: 90%;
-}
-#pillow{
-    width:75%;
-    margin-top: 50%;
-}
-#dresses{
-    height:300px
-   }
-   #bed{
-    height:300px
-   }
-   #girl{
-    height:300px
-   }
-   .phone_number{
-    margin-top: -90%;
-    width: 40%;
-   }
-   .numbers{
-    display: block;
-}
-.email{
-    display: block;
-}
-footer{
-    margin-top: 25%;
-}
+
+    .timeless {
+        display: block;
+    }
+
+    #image_two {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    #paint {
+        width: 90%;
+    }
+
+    #pillow {
+        width: 75%;
+        margin-top: 50%;
+    }
+
+    #dresses {
+        height: 300px
+    }
+
+    #bed {
+        height: 300px
+    }
+
+    #girl {
+        height: 300px
+    }
+
+    .phone_number {
+        margin-top: -90%;
+        width: 40%;
+    }
+
+    .numbers {
+        display: block;
+    }
+
+    .email {
+        display: block;
+    }
+
+    footer {
+        margin-top: 25%;
+    }
 
 }
